@@ -20,4 +20,4 @@
 ![image](https://github.com/llwslc/AutoIt3/blob/master/Screenshots/w7theme.jpg)
 
 
-一个主题修改工具包，时间太久，已经不记得功能都有什么。
+一个主题修改工具包，时间太久，已经不记得功能细节。
